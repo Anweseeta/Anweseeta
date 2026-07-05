@@ -1,10 +1,16 @@
 Hi, I'm Anweseeta (❁´◡`❁)
 
+
 🌱 Currently learning Python, DSA & AI
+
 💻 Passionate about Software Development
+
 🧩 Love solving coding challenges
+
 🤝 Open to collaboration on interesting projects
+
 📈 Always learning something new
+
 
 
 ## 🌐 Socials:
