@@ -16,7 +16,6 @@ Hi, I'm Anweseeta (❁´◡`❁)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anweseeta-sahoo-1915972a0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anweseeta@gmail.com) 
 
-# 💻 Tech Stack:
 # 💻 Tech Stack
 
 ### Languages
